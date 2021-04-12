@@ -7,4 +7,5 @@ int main()
     cout<<"yes";
     cout<<"done with first commit";
     cout<<"on master"<<endl;
+    cout<<"making changed"<<endl;
 }
